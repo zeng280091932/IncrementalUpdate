@@ -6,3 +6,12 @@
 2、客户端：IncrementalUpdate文件夹下面，是标准的as工程，直接导入，修改增量包路径。运行->点击按钮，即可生成完整的安装包。
 
 3、BsDiff文件夹是标准的vs工程，演示了bsdiff的Windows下编译，Linux下编译需稍作修改即可。
+
+## Android架构师全套视频获取：
+
+1、百度网盘：链接：https://pan.baidu.com/s/1GBHi4SgodTzuBa5haeD2_Q
+
+提取码：eh4b
+
+
+2、直接私信或+V:zengxiaotao1987 +Q:280091932索取
